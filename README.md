@@ -1,4 +1,9 @@
-# Hi, I'm onxzy! 👋
+<p align="center">
+  <!-- <a href="https://github.com/onxzy">
+    <img src="https://avatars.githubusercontent.com/u/33637065?v=4" alt="Profile picture" width="160" height="160">
+  </a> -->
+  <h1 align="center">Hi, I'm onxzy! 👋</h1>
+</p> 
 
 ## 🚀 About Me
 I'm French 🇫🇷 and I'm a self-taught developper.
