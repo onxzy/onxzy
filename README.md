@@ -6,7 +6,7 @@
 </p> 
 
 ## 🚀 About Me
-I'm French 🇫🇷 and I'm a self-taught developper.
+I'm a French 🇫🇷 self-taught developper.
 I mainly use GitHub for my student and personnal projects.
 I'm currently studying in Centrale Lille.
 
