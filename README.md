@@ -13,6 +13,14 @@ I'm currently studying in Centrale Lille.
 ## 📂 Projects
 
 Working on it, meanwhile you can check my public repos
+
+#### Express Boilerplate 
+
+#### Play Sunomad : Multiplayer game based on GoogleMaps API which goal is to guess from where a picture has been taken
+
+#### PMC : Collect and analyse Electrocardiograms from a Withings Smartwatch
+
+#### InputHC - Challenge I&M : AI-based scheduling of surgeries to reduce bed occupancy in hospitals
   
 ## 🛠 Skills
 
