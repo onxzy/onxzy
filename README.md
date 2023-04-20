@@ -12,7 +12,7 @@ I'm currently studying in Centrale Lille.
 
 ## 📂 Projects
 
-I'm curruently working on :
+I'm currently working on :
 - [BackBP](https://github.com/onxzy/back-bp) : A Nest.js boilerplate for Backend Projects with Auth, REST, Email, Storage, Sockets...
   
 ## 🛠 Skills
